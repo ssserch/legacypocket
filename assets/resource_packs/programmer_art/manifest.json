@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Change the textures back to the classic pre-1.14 look!",
+        "name": "Programmer Art",
+        "uuid": "fd1831d5-85b8-40da-8e43-81b99f434b16",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 1, 5 ]
+    },
+    "modules": [
+        {
+            "description": "Change the textures back to the classic pre-1.14 look!",
+            "type": "resources",
+            "uuid": "ce9c7d3a-d355-4c41-b6bd-390bcc96b8f3",
+            "version": [0, 0, 1]
+        }
+    ]
+}

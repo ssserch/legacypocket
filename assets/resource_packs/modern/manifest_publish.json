@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "New textures in the old Minecraft PE!",
+        "name": "Bedrock Textures",
+        "uuid": "4f2e8110-3b9a-4c1d-8f7a-22e4b3c9d812",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 1, 5 ]
+    },
+    "modules": [
+        {
+            "description": "New textures in the old Minecraft PE!",
+            "type": "resources",
+            "uuid": "d3c5b719-e1f2-4a8a-9c4d-6b8e2f0a1c35",
+            "version": [0, 0, 1]
+        }
+    ]
+}
