@@ -17,4 +17,4 @@ This is an alternative if you want to have Minecraft Bedrock for Android and Min
   <img src="https://ssserch.com/legacypocket/img/steve.png" alt="Steve">
 </p>
 
-<p align="center">https://ssserch.com/pocketlegacy</p>
+<p align="center">https://ssserch.com/legacypocket</p>
